@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently studying Computer Engineering at UCAM.<br>💻 I’m passionate about technology and continuously learning more about computer science and software development.<br>🚀 I’m focused on improving my skills, exploring new technologies, and gaining experience through personal and academic projects.
+ I’m currently studying Computer Engineering at UCAM.<br> I’m passionate about technology and continuously learning more about computer science and software development.<br> I’m focused on improving my skills, exploring new technologies, and gaining experience through personal and academic projects.
 
 
 ## 🌐 Socials:
